@@ -1,0 +1,11 @@
+# CodeWarrior build output
+bin/
+*.abs
+*.s19
+*.sx
+*.map
+*.o
+*.dbg
+
+# OS
+.DS_Store
